@@ -1,0 +1,9 @@
+main.c:36:6:InitializeIO_2	8	static
+main.c:62:6:configure_PA0	24	static
+main.c:94:6:EXTI0_IRQHandler	8	static
+main.c:106:6:config_UART	32	static
+main.c:145:6:USART_PutChar	16	static
+main.c:151:6:USART_PutString	16	static
+main.c:169:5:main	16	static
+main.c:276:6:EVAL_AUDIO_TransferComplete_CallBack	16	static
+main.c:285:10:EVAL_AUDIO_GetSampleCallBack	4	static
